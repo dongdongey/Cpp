@@ -2,14 +2,14 @@
 
 ```cpp
 class someClass{
-		int a,b;
+	int a,b;
 		
-		int sum(){
-				return a+b;
-		}
-		int csum() const{
-				return a+b;
-		}
+	int sum(){
+		return a+b;
+	}
+	int csum() const{
+		return a+b;
+	}
 }
 ```
 
